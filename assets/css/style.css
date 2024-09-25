@@ -42,8 +42,11 @@ html,body{
 
 .top .img-section img{
     width: 100px;
-    border-radius: 50%;  
+    height: 100px;
     object-fit: cover;
+    border-radius: 50%;  
+   
+
 }
 .top .img-section{
     /* background-color: aqua; */
