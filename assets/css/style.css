@@ -43,6 +43,7 @@ html,body{
 .top .img-section img{
     width: 100px;
     border-radius: 50%;  
+    object-fit: cover;
 }
 .top .img-section{
     /* background-color: aqua; */
